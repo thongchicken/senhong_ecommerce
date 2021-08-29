@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122834165842",
+    "project_id": "senhong-50601",
+    "storage_bucket": "senhong-50601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122834165842:android:477ec83d096a93bad5bf8b",
+        "android_client_info": {
+          "package_name": "com.example.senhongecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122834165842-nc98ebr623q8jahmjvu394vvmc9011v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-jmswmt-LJ3358dwYV1fXM5VufMaoK74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122834165842-nc98ebr623q8jahmjvu394vvmc9011v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

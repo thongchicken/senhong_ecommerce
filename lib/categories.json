@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2,
+    "name": "Rau củ",
+    "image": {
+      "id": 2,
+      "src": "vegetables.jpeg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Các loại cá",
+    "image": {
+      "id": 1,
+      "src": "ca.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Trái cây",
+    "image": {
+      "id": 3,
+      "src": "trai-cay.jpeg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Các loại hạt",
+    "image": {
+      "id": 4,
+      "src": "gao.jpeg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Các loại trứng",
+    "image": {
+      "id": 5,
+      "src": "trung.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Đặc sản",
+    "image": {
+      "id": 6,
+      "src": "dac-san.png"
+    }
+  }
+]
